@@ -10,9 +10,7 @@
 //   ],
 //   "generated_with_requirements": [
 //     "jupyterlab==3.4.8",
-//     "liga-mlflow==0.2.0.dev2",
-//     "liga-sklearn==0.2.0.dev2",
-//     "liga==0.2.0.dev2",
+//     "liga==0.2.0.dev3",
 //     "setuptools"
 //   ],
 //   "manylinux": "manylinux2014",
@@ -1571,13 +1569,13 @@
           "artifacts": [
             {
               "algorithm": "sha256",
-              "hash": "3d45a9910fff7c60f761f40c2e1bc271b53628be6ae081cd6761503e71a5fe86",
-              "url": "https://files.pythonhosted.org/packages/1b/07/8e29003a879031966a178cfef894a3ac935d385ac76006d2c9ae3aace93b/liga-0.2.0.dev2-py3-none-any.whl"
+              "hash": "43955f901cd595c65a80b9307f2625c7c8839350eddfc90fe7000a3fe77b46c4",
+              "url": "https://files.pythonhosted.org/packages/9f/60/b1deba3bd53532f7d9413339110b0dd56e7d6e5d0b5d2eeff8c242ac0b39/liga-0.2.0.dev3-py3-none-any.whl"
             },
             {
               "algorithm": "sha256",
-              "hash": "7e67b28f0dcec11d4731537e300793e6dad02b170e49e3a95cf951b44abc770a",
-              "url": "https://files.pythonhosted.org/packages/40/3c/9d04630add802266916e09a069712aa3fc21f2f3b29123da41f22c618e4d/liga-0.2.0.dev2.tar.gz"
+              "hash": "809673192b736972356f5df7eb1692bc22cc3cb3f5bafc5ee290599712bf911f",
+              "url": "https://files.pythonhosted.org/packages/b1/6a/a660958572075039c44939b49c24c3bb81a605c4ec07b5d6d4c0d571017f/liga-0.2.0.dev3.tar.gz"
             }
           ],
           "project_name": "liga",
@@ -1585,59 +1583,18 @@
             "antlr4-python3-runtime==4.11.1",
             "fsspec==2022.1.0",
             "jsonschema",
+            "mlflow==1.26.1",
             "numpy",
             "pandas",
             "py4j",
             "pyarrow>=6.0",
             "pyspark==3.2.1",
             "pyyaml",
-            "requests"
-          ],
-          "requires_python": "<3.10,>=3.8",
-          "version": "0.2.dev2"
-        },
-        {
-          "artifacts": [
-            {
-              "algorithm": "sha256",
-              "hash": "d8756cac4eaafc4b6904228ccdf430d503cc5ac06fa8d2617ee85d1231ba0de8",
-              "url": "https://files.pythonhosted.org/packages/33/5c/aa1c17fc62b5b0ff8ffb16b1b64b1fa119911afb61cc5af4cb38212c7cc7/liga_mlflow-0.2.0.dev2-py3-none-any.whl"
-            },
-            {
-              "algorithm": "sha256",
-              "hash": "60e3dfbc4ec509afe5e07d7e652e09716aa35bc8226fa59c62aa6a002c361fa6",
-              "url": "https://files.pythonhosted.org/packages/6f/1f/bd3abfa34ab1de40c3c7ac3a75120e29b15fb74a547e23ab7ca142951c57/liga-mlflow-0.2.0.dev2.tar.gz"
-            }
-          ],
-          "project_name": "liga-mlflow",
-          "requires_dists": [
-            "liga==0.2.0.dev2",
-            "mlflow==1.26.1"
-          ],
-          "requires_python": "<3.10,>=3.8",
-          "version": "0.2.dev2"
-        },
-        {
-          "artifacts": [
-            {
-              "algorithm": "sha256",
-              "hash": "c16ecbd51550210c9790742bad29664a80d3176e05d4963a08e0ac4b8251152c",
-              "url": "https://files.pythonhosted.org/packages/b9/78/35d2217ba0876cc5b5fca40a5aa6e6d8986b1133b2e01314acaf8a4b9c97/liga_sklearn-0.2.0.dev2-py3-none-any.whl"
-            },
-            {
-              "algorithm": "sha256",
-              "hash": "f4f535a348a416d104580d0de6460730ae09f802cde14b4080edab524db8bcb3",
-              "url": "https://files.pythonhosted.org/packages/aa/55/3d0db7eba2c64bc93e877202b952ff3a218451b2d881b90e91e5db0d8e16/liga-sklearn-0.2.0.dev2.tar.gz"
-            }
-          ],
-          "project_name": "liga-sklearn",
-          "requires_dists": [
-            "liga==0.2.0.dev2",
-            "numpy",
+            "requests",
             "scikit-learn"
           ],
           "requires_python": "<3.10,>=3.8",
-          "version": "0.2.dev2"
+          "version": "0.2.dev3"
         },
         {
           "artifacts": [
@@ -3639,9 +3596,7 @@
   "prefer_older_binary": false,
   "requirements": [
     "jupyterlab==3.4.8",
-    "liga-mlflow==0.2.0.dev2",
-    "liga-sklearn==0.2.0.dev2",
-    "liga==0.2.0.dev2",
+    "liga==0.2.0.dev3",
     "setuptools"
   ],
   "requires_python": [
