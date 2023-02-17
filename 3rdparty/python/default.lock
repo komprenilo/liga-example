@@ -11,7 +11,7 @@
 //   "generated_with_requirements": [
 //     "jupyterlab==3.4.8",
 //     "liga-mlflow==0.2.0",
-//     "liga-pytorch==0.2.0.dev0",
+//     "liga-pytorch==0.2.0",
 //     "liga-sklearn==0.2.0",
 //     "liga==0.2.2",
 //     "ligavision==0.2.0",
@@ -2146,13 +2146,13 @@
           "artifacts": [
             {
               "algorithm": "sha256",
-              "hash": "29e17138d6602508bd5b5606965eab44948a2ae654afde3dc1c9a4f0526e46ab",
-              "url": "https://files.pythonhosted.org/packages/5b/4b/ac8e895d7e20ce14d159361e1e5aa79dfbebd8fed9a3aa112c3a5c6e1e2b/liga_pytorch-0.2.0.dev0-py3-none-any.whl"
+              "hash": "ded09ba6ca1105bc3723b6504fd40dfe0fc663cb990d666c778647524fba7d51",
+              "url": "https://files.pythonhosted.org/packages/ff/16/289e41036b96555ea3374934b9fe82bd9d0ccfff93437c8f5fcf1b04b422/liga_pytorch-0.2.0-py3-none-any.whl"
             },
             {
               "algorithm": "sha256",
-              "hash": "7b046db80e7c38e5114f9153e3a0e17c2b5554fb2dd2d0a721f8266daebc5bb9",
-              "url": "https://files.pythonhosted.org/packages/78/d5/21060551511c0aab0ce2877735b6933cd94020e757259cbbe8b62aa32a8a/liga-pytorch-0.2.0.dev0.tar.gz"
+              "hash": "b67cd302f298a98e9d0b2f354dda35c3efd30d4cab42b738900f5b1c9758f61d",
+              "url": "https://files.pythonhosted.org/packages/f6/6a/6814ec2402b4e09bccc9451bf30f89b8380832b613d939bc938d9f6737d9/liga-pytorch-0.2.0.tar.gz"
             }
           ],
           "project_name": "liga-pytorch",
@@ -2162,7 +2162,7 @@
             "torchvision==0.13.1"
           ],
           "requires_python": "<3.10,>=3.8",
-          "version": "0.2.dev0"
+          "version": "0.2"
         },
         {
           "artifacts": [
@@ -5130,7 +5130,7 @@
   "requirements": [
     "jupyterlab==3.4.8",
     "liga-mlflow==0.2.0",
-    "liga-pytorch==0.2.0.dev0",
+    "liga-pytorch==0.2.0",
     "liga-sklearn==0.2.0",
     "liga==0.2.2",
     "ligavision==0.2.0",

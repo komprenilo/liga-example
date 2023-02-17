@@ -6,6 +6,6 @@ jupyter_lab(
         "liga-sklearn==0.2.0",
         "liga-mlflow==0.2.0",
         "ligavision==0.2.0",
-        "liga-pytorch==0.2.0.dev0"
+        "liga-pytorch==0.2.0"
     ]
 )
