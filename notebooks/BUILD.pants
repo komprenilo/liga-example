@@ -1,3 +1,11 @@
 # Put your dependencies in the requirements
 
-jupyter_lab(name="default", requirements=["liga==0.2.0.dev11", "liga-sklearn==0.2.0.dev11", "liga-mlflow==0.2.0dev11"])
+jupyter_lab(
+    name="default", requirements=[
+        "liga==0.2.2",
+        "liga-sklearn==0.2.0",
+        "liga-mlflow==0.2.0",
+        "ligavision==0.2.0",
+        "liga-pytorch==0.2.0"
+    ]
+)
